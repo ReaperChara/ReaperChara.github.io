@@ -1,0 +1,5 @@
+# AdMob (Google)
+google.com, pub-8459796290784338, DIRECT, f08c47fec0942fa0
+
+# Chartboost
+# chartboost.com,<publisher id>,DIRECT - to be added after app is live (via Chartboost app-ads.txt scan)
